@@ -1,4 +1,4 @@
-# ML-Based Traffic Analysis System  
+# ML-Based Traffic Analysis System.  
 
 This project is an intelligent traffic analysis system powered by machine learning to optimize and manage traffic flow effectively. The system leverages real-time data from cameras and sensors to detect, classify, and analyze vehicles, pedestrians, and traffic patterns.  
 
